@@ -1,9 +1,27 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 <<<<<<< HEAD
 this is branch develop
 =======
+this is branch develop
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+feature
+>>>>>>> feature
+=======
 develop!
 >>>>>>> feature
 >>>>>>> develop
+<<<<<<< HEAD
+=======
+
+
+hellooooooooo
+=======
+
+world
+>>>>>>> develop
+>>>>>>> feature
