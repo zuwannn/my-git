@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 master
 =======
+<<<<<<< HEAD
 this is branch develop
+=======
+develop!
+>>>>>>> feature
 >>>>>>> develop
