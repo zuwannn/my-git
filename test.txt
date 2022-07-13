@@ -1,7 +1,1 @@
-hello1
-
-<<<<<<< HEAD
-feature
-=======
-develop
->>>>>>> develop
+master
