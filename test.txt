@@ -1,5 +1,6 @@
-hello1
+this is branch develop
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 feature
 =======
@@ -8,3 +9,7 @@ develop!
 
 
 hellooooooooo
+=======
+
+world
+>>>>>>> develop
